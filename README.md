@@ -1,6 +1,4 @@
-# IoT-Based-patient-Monitoring-System-using-sensor-Arduino
-
-# 🏥 IoT Based Health Monitoring System
+# 🏥 IoT Based Health Monitoring System using sensor Arduino
 
 A smart and real-time IoT solution designed to continuously measure and monitor vital human health parameters.  
 This system collects Heart Rate, Blood Pressure, and Body Temperature data using biomedical sensors and transmits it to a cloud server for remote monitoring and anomaly detection.
